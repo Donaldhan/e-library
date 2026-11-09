@@ -1,0 +1,5 @@
+elibrary:
+  seed:
+    enabled: false
+  reservation:
+    hold-duration: PT48H
